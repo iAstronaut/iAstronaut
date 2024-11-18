@@ -24,8 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse set of s
 
 ### 🔗 Let's Connect:
 
-- [LinkedIn](#) (Thêm đường dẫn đến LinkedIn của bạn)
-- [Twitter](#) (Thêm đường dẫn đến Twitter của bạn)
+- [LinkedIn](#) (https://www.linkedin.com/in/an-nguyen-11593931b/)
 
 ---
 
