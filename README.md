@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm An! 👋
 
-<!--
-**iAstronaut/iAstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a diverse set of skills ranging from backend development in PHP to scripting in shell.
 
-Here are some ideas to get you started:
+### 💻 My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: PHP, Shell scripting
+- **Tools**: Git, VS Code
+- **Languages**: C, Python, PHP
+
+### 🌟 Featured Projects:
+
+- [**LabVXL**](https://github.com/iAstronaut/LabVXL): A project using VXL libraries to create simulations.
+- [**Kinesis Stream Video Project**](https://github.com/iAstronaut/Kinesis-Stream-Video-Project): Streaming video using AWS Kinesis.
+
+### 🔧 Tools I Use:
+
+- **Code Editor**: Visual Studio Code
+- **Version Control**: Git
+
+### 📈 GitHub Stats:
+
+![An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAstronaut&show_icons=true&theme=radical)
+
+### 🔗 Let's Connect:
+
+- [LinkedIn](#) (Thêm đường dẫn đến LinkedIn của bạn)
+- [Twitter](#) (Thêm đường dẫn đến Twitter của bạn)
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on an interesting project!
+
